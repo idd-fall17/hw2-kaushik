@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sun Sep 10 17:12:31 PDT 2017
+1.base=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_319eaa3208a15d34573d8ab417d3a2c32ad98355
+4.file=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b44c79b8aeb8679608cb30697f105f8d9bd0fcb/classes.dex
+1.file=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_319eaa3208a15d34573d8ab417d3a2c32ad98355/classes.dex
+4.set=DEX
+2.base=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/res/resources-debug.ap_/res/layout/textlayout.xml
+count=5
+1.set=DEX
+3.base=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/res/resources-debug.ap_
+3.file=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.base=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b44c79b8aeb8679608cb30697f105f8d9bd0fcb

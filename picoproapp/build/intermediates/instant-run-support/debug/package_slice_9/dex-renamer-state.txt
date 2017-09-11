@@ -1,0 +1,4 @@
+#Thu Sep 07 14:42:08 PDT 2017
+base.0=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

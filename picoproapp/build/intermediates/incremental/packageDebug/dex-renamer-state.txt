@@ -1,0 +1,7 @@
+#Sun Sep 10 17:12:31 PDT 2017
+base.0=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b44c79b8aeb8679608cb30697f105f8d9bd0fcb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_319eaa3208a15d34573d8ab417d3a2c32ad98355/classes.dex
+base.1=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_319eaa3208a15d34573d8ab417d3a2c32ad98355
+file.0=/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b44c79b8aeb8679608cb30697f105f8d9bd0fcb/classes.dex

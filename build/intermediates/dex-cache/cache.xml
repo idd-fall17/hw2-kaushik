@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b44c79b8aeb8679608cb30697f105f8d9bd0fcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecc8a3805d6eaf202df0436c0c9c1cc5a0f90656">
+        <dex dex="/Users/ksk/CS294/idd17-project-template/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_319eaa3208a15d34573d8ab417d3a2c32ad98355/classes.dex" />
+    </item>
+
+</items>
